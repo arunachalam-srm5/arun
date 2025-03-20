@@ -1,0 +1,12 @@
+NAME: arunachalam.R
+DOB:23/09/2005
+GENDER: Male
+NATIONALITY: Indian
+LANGUAGE KNOW: Tamil,English,kannada
+DEGREE: BCA
+QUALIFICATIONS: Higher Secondary
+HOBBIES: Playing video games
+		Listing song
+		And a partime code analyzer 
+ADDRESS:147 nadaipathai street kundrathur
+CONTACT: arungeethaarungeetha59@gmail.com
